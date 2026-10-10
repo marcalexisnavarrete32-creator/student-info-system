@@ -49,4 +49,4 @@ Edit `config/config.json`:
 | `log_level` | DEBUG, INFO, WARNING, ERROR |
 
 ## Author
-<Your Name>
+<Marc Alexis Navarrete>
